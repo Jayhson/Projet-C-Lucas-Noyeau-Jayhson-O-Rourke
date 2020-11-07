@@ -1,2 +1,2 @@
 # Projet-C-Lucas-Noyeau-Jayhson-O-Rourke
-Travail à rendre pouor le Projet C
+Travail à rendre pour le Projet C
