@@ -2,13 +2,13 @@
 
 Travail à rendre pour le Projet C
 
-##Installation
+## Installation
 Pour installer le projet, veuillez le télécharger. Une fois effectué, décompressez le et ouvrez un terminal.
 Aller, via le terminal, dans le dossier du projet et compiler le main (ici treetst.c) grâce à la commande :
 ```
 make treetest
 ```
-Vous pouvez maintenant utiliser l'API de recherche de fichier en faisant
+Vous pouvez maintenant utiliser l'API de recherche de fichier en faisant :
 ```
 ./treetest leNomDeVotreFichierAChercher
 ```
